@@ -1,0 +1,5 @@
+intra	HTTP	intra.42.fr	GET	200	120
+wowowwow	HTTP	google.com	GET	301	20
+pow	DNS	google.com	30	8.8.8.8
+pow	DNS	142.251.132.238	30	8.8.8.8
+pingu	PING	google.com	30
